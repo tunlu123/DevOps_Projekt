@@ -1,0 +1,16 @@
+services:
+  backend:
+    build: ./backend
+    image: todo-backend:latest
+    container_name: todo-backend
+    ports:
+      - "8081:8081"
+
+  frontend:
+    build: ./frontend
+    image: todo-frontend:latest
+    container_name: todo-frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
