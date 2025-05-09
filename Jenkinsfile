@@ -6,7 +6,6 @@ pipeline {
         IMAGE_FRONTEND = 'todo-frontend'
         IMAGE_TAG = '1.0.0'
     }
-
     stages {
         stage('Clean Workspace') {
             steps {
