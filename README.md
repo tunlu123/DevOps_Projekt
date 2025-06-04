@@ -1,7 +1,3 @@
-Sachverhalt: 
-
-Nach Abschluss der Weiterbildung arbeiten Sie nun bei der Borngraben IT Dienstleistung Services GmbH. Ihr Kollege, Günther Siegfried, ein Softwareentwickler, hat Ihnen eine To-Do-Liste gegeben. Günther hat nicht das nötige Wissen im Bereich DevOps, weshalb er Sie als DevOps Engineer gebeten hat, ihm bei der Umsetzung zu helfen. Ihre Aufgabe ist es, ihm zu assistieren und die folgenden Schritte zu erledigen. 
-
 Aufgaben: 
 
 1. To-Do-Liste erstellen: 
